@@ -1,0 +1,2 @@
+Bonjour <?=$nom?>,
+<?=$nested?>
